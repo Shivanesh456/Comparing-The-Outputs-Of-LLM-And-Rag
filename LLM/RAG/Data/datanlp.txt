@@ -1,0 +1,2 @@
+Natural language processing enables machines to understand,
+interpret, and generate human language.
